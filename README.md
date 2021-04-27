@@ -1,3 +1,5 @@
 # Snake-Game
 
-Snake game URL:
+Snake game URL: https://gkdlswm5.github.io/Snake-Game/
+
+<img src="image/snakeGame.PNG">
